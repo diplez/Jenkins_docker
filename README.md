@@ -11,8 +11,8 @@ Que cosas necesitas para instalar el software y como instalarlas.
 
 ```
 - Crear archivo .env a nivel de docker-compose -- Variable JENKINGS_ENV=TEXTO
-- Docker  20.10.0 o superior.
-- Docker compose 1.27.4 o superior
+- Docker  19.0.xx o superior.
+- Docker compose 1.27.x o superior
 - Usuario docker autenticado.
 ```
 
